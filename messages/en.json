@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Learn Arabic",
+    "subtitle": "A multilingual educational platform for learning Arabic for non-native speakers",
+    "welcome": "Welcome to the Arabic Learning Platform",
+    "description": "We offer you the best ways to learn Arabic in an easy and enjoyable manner",
+    "getStarted": "Start Learning",
+    "features": {
+      "title": "Platform Features",
+      "interactive": "Interactive Lessons",
+      "native": "Native Arabic Teachers",
+      "flexible": "Flexible Learning",
+      "certificate": "Accredited Certificates"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "lessons": "Lessons",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "language": "Language",
+    "changeLanguage": "Change Language"
+  }
+}
