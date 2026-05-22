@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Arab tilini o'rganing",
+    "subtitle": "Arab tilini o'rganish uchun ko'p tilli ta'lim platformasi",
+    "welcome": "Arab tili o'rganish platformasiga xush kelibsiz",
+    "description": "Biz sizga arab tilini oson va qiziqarli usulda o'rganish uchun eng yaxshi usullarni taklif etamiz",
+    "getStarted": "O'rganishni boshlash",
+    "features": {
+      "title": "Platforma xususiyatlari",
+      "interactive": "Interaktiv darslar",
+      "native": "Arab tilida so'zlovchi o'qituvchilar",
+      "flexible": "Moslashuvchan o'rganish",
+      "certificate": "Tasdiqlangan sertifikatlar"
+    }
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "lessons": "Darslar",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+  "common": {
+    "language": "Til",
+    "changeLanguage": "Tilni o'zgartirish"
+  }
+}
